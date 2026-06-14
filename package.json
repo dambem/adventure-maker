@@ -1,0 +1,20 @@
+{
+  "name": "cyoa-editor",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/react": "^4.2.0",
+    "@xyflow/react": "^12.4.0",
+    "astro": "^5.7.0",
+    "jszip": "^3.10.1",
+    "marked": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
